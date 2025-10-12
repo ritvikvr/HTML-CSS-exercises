@@ -1,0 +1,33 @@
+header{
+    background-color : black;
+    padding : 17px;
+}
+
+header h1{
+    text-align : center;
+    color :crimson;
+    font-size: 1.5em;
+}
+header h3{
+    text-align : center;
+    color :crimson;
+    font-size : 0.9em;
+}
+
+h2{
+    color : black;
+    font-size : 1em;
+}
+
+p{
+    color : black;
+    padding-left: 20px;
+    font-size: 0.9em;
+}
+
+body{
+    background-color: beige;
+    border: 7px, black, double;
+    max-width: 1000px;
+    margin: 20px auto;
+}
