@@ -375,7 +375,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ```
 MIT License
 
-Copyright (c) 2024 Ritvik Verma
+Copyright (c) 2024 Ritvik
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -390,7 +390,7 @@ copies or substantial portions of the Software.
 
 ## 👤 Author
 
-**Ritvik Verma** (@ritvikvr)
+**Ritvik** (@ritvikvr)
 - Computer Science Engineering Student specializing in AI & Data Science
 - Passionate about Web Development, Full-Stack Development, and Clean Code
 - GitHub: [ritvikvr](https://github.com/ritvikvr)
